@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CPModel",
+            "request": "launch",
+            "mainClass": "code.CPModel",
+            "projectName": "JavaNotesForReview_c72e6f98"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExecutorServiceTest",
+            "request": "launch",
+            "mainClass": "code.ExecutorServiceTest",
+            "projectName": "JavaNotesForReview_c72e6f98"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyThreadByRunnable",
+            "request": "launch",
+            "mainClass": "code.MyThreadByRunnable",
+            "projectName": "JavaNotesForReview_c72e6f98"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyThread",
+            "request": "launch",
+            "mainClass": "code.MyThread",
+            "projectName": "JavaNotesForReview_c72e6f98"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyThread",
+            "request": "launch",
+            "mainClass": "Java多线程.code.MyThread",
+            "projectName": "JavaNotesForReview_c72e6f98"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyThread",
+            "request": "launch",
+            "mainClass": "Java多线程.MyThread",
+            "projectName": "JavaNotesForReview_c72e6f98"
+        }
+    ]
+}
