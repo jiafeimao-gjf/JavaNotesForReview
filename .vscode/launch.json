@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ThreadDemo",
+            "request": "launch",
+            "mainClass": "code.ThreadDemo",
+            "projectName": "JavaNotesForReview_c72e6f98"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CPModel",
             "request": "launch",
             "mainClass": "code.CPModel",
